@@ -8,3 +8,5 @@ export const postsSlice = createSlice({
   ],
   reducers: {},
 })
+
+export default postsSlice.reducer;
